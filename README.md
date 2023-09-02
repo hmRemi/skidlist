@@ -31,6 +31,10 @@ This repository maintains a list of individuals who have been identified as "ski
 - <b>Aliases:</b> zash.mx
 - <b>Reason:</b> Posing as a web developer, he inquired about the visual appeal and cleanliness of a website he claimed to be crafting. However, it was later revealed that he was merely copying code directly from Bootstrap 5's examples, falsely asserting authorship. Furthermore, he openly admitted to engaging in skidding activities in the past.
 
+## Lugami
+- <b>Aliases:</b> Desistirei, Misureta
+- <b>Reason:</b> Called ziue a skid 🔥
+
 # How to Contribute to This List
 
 If you would like to contribute to this list and add individuals who you believe should be included, please follow these steps:
