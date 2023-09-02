@@ -32,9 +32,9 @@ If you would like to contribute to this list and add individuals who you believe
 3. To add someone to the list, use the following format:
 
 ```markdown
-**User**
-- Aliases: [List any known aliases]
-- Reason: [Provide a clear and concise reason for inclusion]
+## User
+- <b>Aliases:</b> [List any known aliases]
+- <b>Reason:</b> [Provide a clear and concise reason for inclusion]
 ```
 
 Replace `[List any known aliases]` with any known aliases of the individual, and `[Provide a clear and concise reason for inclusion]` with a brief but informative explanation for their inclusion.
