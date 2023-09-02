@@ -1,6 +1,7 @@
 # List of known skids
 
 This repository maintains a list of individuals who have been identified as "skids" in various online communities.
+Make sure to star this repository to show your support.
 
 ## Refactoring
 - <b>Aliases:</b> Ren, Luna
