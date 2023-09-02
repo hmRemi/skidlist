@@ -3,4 +3,4 @@
 This repository maintains a list of individuals who have been identified as "skids" in various online communities.
 
 ## Refactoring
-- Claims he has knowledge within the Java language, was tested and failed horribly. Since admitted he's a skid.
+- Stated to possess expertise in the Java programming language but underwent a test that resulted in significant failure. Subsequently acknowledged being inexperienced.
