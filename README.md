@@ -18,3 +18,7 @@ This repository maintains a list of individuals who have been identified as "ski
 ## Tabio
 - <b>Aliases:</b>
 - <b>Reason:</b> Employed as a developer for a Minecraft client, he allegedly "rewrote" their foundation with code of exceedingly poor quality. Additionally, he has been found to appropriate numerous utilities, falsely asserting authorship.
+
+## Appu26j
+- <b>Aliases:</b>
+- <b>Reason:</b> Self-proclaimed "developer" of the Apple Client, widely regarded as one of the poorest quality clients in existence. Routinely copies utilities from established clients. Displays limited expertise, resorting to manually drawing each module in his clickgui. Has declined multiple testing opportunities. Additionally, he is underage for Discord and other services, not making a wise decision by being on the platform.
