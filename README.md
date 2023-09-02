@@ -36,6 +36,10 @@ Make sure to star this repository to show your support.
 - <b>Aliases:</b> Desistirei, Misureta
 - <b>Reason:</b> Called ziue a skid 🔥
 
+## Cinger
+- <b>Aliases:</b> Cingerr
+- <b>Reason:</b> Called athena a skid and a rat 🔥
+
 # How to Contribute to This List
 
 If you would like to contribute to this list and add individuals who you believe should be included, please follow these steps:
