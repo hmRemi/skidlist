@@ -13,3 +13,8 @@ This repository maintains a list of individuals who have been identified as "ski
 ## Meteor
 - <b>Aliases:</b> iusemeteor
 - <b>Reason:</b> Demonstrates dishonesty by habitually fabricating information. Attempted to sell my free and open-source plugins as his own, violating the terms of use. Lacks any proficiency in Java, resorting to seeking my assistance in setting up my own projects. Engages in unauthorized copying of various repositories, regardless of whether they are publicly available or not.
+
+
+## Tabio
+- <b>Aliases:</b>
+- <b>Reason:</b> Employed as a developer for a Minecraft client, he allegedly "rewrote" their foundation with code of exceedingly poor quality. Additionally, he has been found to appropriate numerous utilities, falsely asserting authorship.
