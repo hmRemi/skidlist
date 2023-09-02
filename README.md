@@ -23,6 +23,10 @@ This repository maintains a list of individuals who have been identified as "ski
 - <b>Aliases:</b>
 - <b>Reason:</b> Self-proclaimed "developer" of the Apple Client, widely regarded as one of the poorest quality clients in existence. Routinely copies utilities from established clients. Displays limited expertise, resorting to manually drawing each module in his clickgui. Has declined multiple testing opportunities. Additionally, he is underage for Discord and other services, not making a wise decision by being on the platform. It should be noted that he also has attempted to distribute remote access trojans (RATs) within the community, a serious breach of trust and ethics.
 
+## zash
+- <b>Aliases:</b> zash.mx
+- <b>Reason:</b> Posing as a web developer, he inquired about the visual appeal and cleanliness of a website he claimed to be crafting. However, it was later revealed that he was merely copying code directly from Bootstrap 5's examples, falsely asserting authorship. Furthermore, he openly admitted to engaging in skidding activities in the past.
+
 # How to Contribute to This List
 
 If you would like to contribute to this list and add individuals who you believe should be included, please follow these steps:
