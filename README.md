@@ -41,7 +41,7 @@ If you would like to contribute to this list and add individuals who you believe
 - <b>Reason:</b> [Provide a clear and concise reason for inclusion]
 ```
 
-Replace `[List any known aliases]` with any known aliases of the individual, and `[Provide a clear and concise reason for inclusion]` with a brief but informative explanation for their inclusion.
+Replace `User` with their primary alias, `[List any known aliases]` with any known aliases of the individual, and `[Provide a clear and concise reason for inclusion]` with a brief yet informative justification for their inclusion
 
 4. Commit your changes with a descriptive message.
 5. Create a pull request (PR) from your forked repository to this main repository.
