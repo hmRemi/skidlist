@@ -1,0 +1,6 @@
+{
+    "username": "user1",
+    "aliases": ["test1", "test2"],
+    "reason": "test",
+    "photo": "url"
+}
