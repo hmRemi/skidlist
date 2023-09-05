@@ -25,8 +25,9 @@ Make sure to star this repository to show your support.
 - <b>Reason:</b> A 16-year-old individual from Japan who claims to be a "developer" owning Soar Client, a Minecraft client with a reputation for being poorly copied. Despite repeated testing, they have demonstrated a lack of genuine development knowledge. Their consistent behavior involves repeatedly utilizing skidded code from the client's inception, attempting to pass it off as their own. However, the codebase and design still clearly reveal its origins from clients like "Tenacity" and "Rise."
 
 ## Appu26j
+- <b>Edited: True</b>
 - <b>Aliases:</b> Apple26j
-- <b>Reason:</b> Self-proclaimed "developer" of the Apple Client, widely regarded as one of the poorest quality clients in existence. Routinely copies utilities from established clients. Displays limited expertise, resorting to manually drawing each module in his clickgui. Has declined multiple testing opportunities. Additionally, he is underage for Discord and other services, not making a wise decision by being on the platform. It should be noted that he also has attempted to distribute remote access trojans (RATs) within the community, a serious breach of trust and ethics.
+- <b>Reason:</b> Self-proclaimed "developer" of the Apple Client, widely regarded as one of the poorest quality clients in existence. Routinely copies utilities from established clients. Displays limited expertise, resorting to manually drawing each module in his clickgui. Has declined multiple testing opportunities. Additionally, he is underage for Discord and other services, not making a wise decision by being on the platform. It should be noted that he also has attempted to distribute remote access trojans (RATs) within the community, a serious breach of trust and ethics. <b>EDIT:</b> Shitface
 
 ## zash
 - <b>Aliases:</b> zash.mx
