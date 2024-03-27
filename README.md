@@ -4,6 +4,10 @@ This repository maintains a list of individuals who have been identified as "ski
 Make sure to star this repository to show your support.
 
 ## Refactoring
+- <b>Aliases:</b> No known aliases.
+- <b>Reason:</b> Decided to borrow @refactorinqq's NanoVG base (it's public) and called it his own (gradle & meta files are 1:1 💀). Owns a client called Fluid, which is one of the worst clients in existence, needing to skid from quickdaffy's tutorials. Routinely copies designs & features from other clients. They added a feature ~1 day after another (less popular) client added it, goes to show how much of a skid they are.
+
+## Refactoring
 - <b>Aliases:</b> Ren, Luna
 - <b>Reason:</b> Stated to possess expertise in the Java programming language but underwent a test that resulted in significant failure. Subsequently acknowledged being inexperienced.
 
