@@ -15,10 +15,19 @@ Make sure to star this repository to show your support.
 - <b>Aliases:</b> zenvunu
 - <b>Reason:</b> Claims to be a Minecraft server developer but lacks any development experience, having never worked with any programming language in their life despite their claims of expertise.
 
-## Meteor
+## Meteor (aka. Retardeor)
 - <b>Aliases:</b> iusemeteor, wagone, meteordev, meteorrrr, connerlinfoot
 - <b>Reason:</b> Demonstrates dishonesty by habitually fabricating information. Attempted to sell my free and open-source plugins as his own, violating the terms of use. Lacks any proficiency in Java, resorting to seeking my assistance in setting up my own projects. Engages in unauthorized copying of various repositories, regardless of whether they are publicly available or not.
-- <b>Proof:</b> https://www.youtube.com/watch?v=SVIlSc4OL_M
+- <b>Response Video:</b> https://www.youtube.com/watch?v=SVIlSc4OL_M
+- <b>Evidence:</b>
+   - <b>SimpleHubCore:</b>
+     - 📁 [RAR File Download](https://www.mediafire.com/file/hibz00r7kpz6h5d/proof_of_simplehub_being_skidded_by_meteor.rar/file)
+   - <b>aiPractice:</b>
+     - Discredits the author by calling it a **"custom core"**. Does not have permission to use it at all because It's a leak. Then suddenly changes the title to **"forked core"** because the premade got leaked. According to meteor, resell rights were purchased. Yet it is being called custom, as a "v2" premade came out which is being sold for $50... [image](https://pasteboard.co/MZ5vn8EejKAs.png)
+   - <b>HyPractice:</b>
+     - Discrediting by constantly denying that It's being used. After, the author is blamed on because It's apparently a fork of another core. Again, due to the premade getting leaked, all of a sudden the title changes to **"skidded core"** lol. [image](https://pasteboard.co/6nFKcjb7xs3t.png)
+   - <b>AquaCore:</b>
+     - Apparently, stealing code and "making it free" is not skidding and therefore invalid proof... [Image](https://pasteboard.co/6MT5MkvL1q47.png)
 
 ## Tabio
 - <b>Aliases:</b>
