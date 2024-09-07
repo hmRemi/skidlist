@@ -22,8 +22,6 @@ Make sure to star this repository to show your support.
 - <b>Evidence:</b>
    - <b>SimpleHubCore:</b>
      - 📁 [RAR File Download](https://www.mediafire.com/file/hibz00r7kpz6h5d/proof_of_simplehub_being_skidded_by_meteor.rar/file)
-   - <b>aiPractice:</b>
-     - Discredits the author by calling it a **"custom core"**. Does not have permission to use it at all because It's a leak. Then suddenly changes the title to **"forked core"** because the premade got leaked. According to meteor, resell rights were purchased. Yet it is being called custom, as a "v2" premade came out which is being sold for $50... [image](https://pasteboard.co/MZ5vn8EejKAs.png)
    - <b>HyPractice:</b>
      - Discrediting by constantly denying that It's being used. After, the author is blamed on because It's apparently a fork of another core. Again, due to the premade getting leaked, all of a sudden the title changes to **"skidded core"** lol. [image](https://pasteboard.co/6nFKcjb7xs3t.png)
    - <b>AquaCore:</b>
